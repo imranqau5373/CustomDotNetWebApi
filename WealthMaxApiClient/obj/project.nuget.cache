@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGCQwYJQ4+447dP27CGjHMKypLIWqP5xBHiYhh6I32oG6EbAdWc6eewwOvOejwYAb1wao+EX18dkBq8NnLAJsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZK PC\\Documents\\Visual Studio 2019\\Projects\\WealthMaxApiClient\\WealthMaxApiClient\\WealthMaxApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZK PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ZK PC\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
